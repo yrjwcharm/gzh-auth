@@ -26,7 +26,8 @@
           openId
         })
         if($res.code ==200){
-          location.href=$res.data;
+          const {url} =$res.data;
+           location.href=url;
         }else {
          Toast({
            message:$res.msg,
@@ -36,7 +37,6 @@
 
       }
     }else {
-      // let url =`https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxcf59e5dc2c72c1dd&redirect_uri=https%3A%2F%2Fmyjxs.youmaijiankang.com%2Fminiprogram%2F&response_type=code&scope=snsapi_userinfo&state=123&connect_redirect=1#wechat_redirect`
       location.replace(url);
     }
   })
