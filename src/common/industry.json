@@ -1,0 +1,277 @@
+{
+    "success":true,
+    "result":[{
+        "children": [{"value": "201", "text": "计算机软件"}, {"value": "202", "text": "硬件设施服务"}, {
+            "value": "205",
+            "text": "电子商务"
+        }, {"value": "206", "text": "游戏"}, {"value": "211", "text": "企业应用"}, {"value": "212", "text": "即时通讯"}, {
+            "value": "213",
+            "text": "影音视频"
+        }, {"value": "214", "text": "社交网络"}, {"value": "215", "text": "网络安全"}, {"value": "218", "text": "软件开发"}, {
+            "value": "217",
+            "text": "系统集成"
+        }, {"value": "207", "text": "电信运营服务"}, {"value": "209", "text": "广播电视传输"}, {
+            "value": "210",
+            "text": "卫星传输服务"
+        }, {"value": "216", "text": "信息技术咨询"}, {"value": "203", "text": "其他软件服务"}, {"value": "204", "text": "其他互联网"}],
+        "value": "200",
+        "text": "互联网\/信息技术",
+        "mediaId": "@lALOD7ToQzAw"
+    }, {
+        "children": [{"value": "505", "text": "学前教育"}, {"value": "502", "text": "初中等教育"}, {
+            "value": "514",
+            "text": "中等职业教育"
+        }, {"value": "515", "text": "高等职业教育"}, {"value": "501", "text": "高等教育"}, {
+            "value": "503",
+            "text": "教育培训机构"
+        }, {"value": "504", "text": "技能培训"}, {"value": "507", "text": "在线教育"}, {"value": "508", "text": "特殊教育"}, {
+            "value": "509",
+            "text": "教育服务机构"
+        }, {"value": "510", "text": "教育行政机构"}, {"value": "518", "text": "教育研究机构"}, {
+            "value": "511",
+            "text": "课后服务"
+        }, {"value": "506", "text": "其他教育"}], "value": "500", "text": "教育行业", "mediaId": "@lALOD7ToPTAw"
+    }, {
+        "children": [{"value": "601", "text": "日用\/化妆品"}, {"value": "602", "text": "食品\/饮料"}, {
+            "value": "603",
+            "text": "服装服饰"
+        }, {"value": "604", "text": "家电\/数码"}, {"value": "605", "text": "奢侈品\/珠宝"}, {"value": "606", "text": "酒品"}, {
+            "value": "607",
+            "text": "烟草业"
+        }, {"value": "608", "text": "办公\/工艺品"}, {"value": "610", "text": "家具"}, {"value": "611", "text": "化学纤维"}, {
+            "value": "612",
+            "text": "金属制品"
+        }, {"value": "613", "text": "汽车交通"}, {"value": "614", "text": "通信\/计算机"}, {
+            "value": "208",
+            "text": "电子\/半导体"
+        }, {"value": "615", "text": "纺织业"}, {"value": "616", "text": "皮\/革\/毛\/羽\/鞋"}, {
+            "value": "617",
+            "text": "木材草编制造"
+        }, {"value": "618", "text": "造纸和纸制品"}, {"value": "619", "text": "石化\/炼焦\/燃料"}, {
+            "value": "620",
+            "text": "化工原料制品"
+        }, {"value": "622", "text": "橡胶和塑料"}, {"value": "623", "text": "非金属矿物"}, {
+            "value": "624",
+            "text": "黑色金属冶炼"
+        }, {"value": "625", "text": "有色金属冶炼"}, {"value": "626", "text": "通用设备制造"}, {
+            "value": "627",
+            "text": "专用设备制造"
+        }, {"value": "628", "text": "其他运输设备"}, {"value": "629", "text": "电气机械\/器材"}, {
+            "value": "630",
+            "text": "仪器仪表制造"
+        }, {"value": "631", "text": "废弃资源利用"}, {"value": "632", "text": "金属\/机械修理"}, {
+            "value": "634",
+            "text": "印刷和记录媒介复制业"
+        }, {"value": "635", "text": "医药制造业"}, {"value": "636", "text": "农副食品加工业"}, {"value": "633", "text": "其他制造业"}],
+        "value": "600",
+        "text": "制造业",
+        "mediaId": "@lALOD7ToSDAw"
+    }, {
+        "children": [{"value": "910", "text": "临时促销"}, {"value": "901", "text": "进出口"}, {
+            "value": "907",
+            "text": "批发"
+        }, {"value": "903", "text": "商店\/超市"}, {"value": "906", "text": "电视\/电话销售"}, {
+            "value": "902",
+            "text": "零售"
+        }, {"value": "908", "text": "零售服务"}, {"value": "909", "text": "其他贸易"}],
+        "value": "900",
+        "text": "贸易\/批发\/零售",
+        "mediaId": "@lALOD7ToQTAw"
+    }, {
+        "children": [{"value": "803", "text": "房地产开发"}, {"value": "807", "text": "房地产中介"}, {
+            "value": "808",
+            "text": "房地产代理"
+        }, {"value": "809", "text": "房地产策划"}, {"value": "815", "text": "房地产租赁"}, {"value": "804", "text": "物业管理"}, {
+            "value": "810",
+            "text": "商业地产"
+        }, {"value": "811", "text": "住宅地产"}, {"value": "812", "text": "工业地产"}, {"value": "813", "text": "养老地产"}, {
+            "value": "816",
+            "text": "产业园区"
+        }, {"value": "817", "text": "地产行政机构"}, {"value": "818", "text": "地产服务机构"}, {"value": "814", "text": "其他地产"}],
+        "value": "800",
+        "text": "房地产业",
+        "mediaId": "@lALOD7ToOzAw"
+    }, {
+        "children": [{"value": "819", "text": "建筑设计"}, {"value": "820", "text": "建筑建材"}, {
+            "value": "821",
+            "text": "家居建材"
+        }, {"value": "822", "text": "建筑行政机构"}, {"value": "823", "text": "建筑服务机构"}, {
+            "value": "801",
+            "text": "房屋建筑"
+        }, {"value": "802", "text": "土木工程"}, {"value": "805", "text": "建筑安装"}, {"value": "806", "text": "装修装潢"}, {
+            "value": "2101",
+            "text": "其他建筑业"
+        }], "value": "2100", "text": "建筑业", "mediaId": "@lALOxqGWyDAw"
+    }, {
+        "children": [{"value": "301", "text": "银行"}, {"value": "302", "text": "保险"}, {"value": "303", "text": "证券"}, {
+            "value": "304",
+            "text": "投资"
+        }, {"value": "305", "text": "基金"}, {"value": "307", "text": "互联网金融"}, {"value": "306", "text": "其他金融业"}],
+        "value": "300",
+        "text": "金融业",
+        "mediaId": "@lALOD7ToPjAw"
+    }, {
+        "children": [{"value": "1001", "text": "连锁酒店"}, {"value": "1010", "text": "普通酒店"}, {
+            "value": "1013",
+            "text": "其他酒店住宿"
+        }, {"value": "1008", "text": "普通餐饮"}, {"value": "1009", "text": "连锁餐饮"}, {
+            "value": "1011",
+            "text": "外卖餐饮"
+        }, {"value": "1012", "text": "其他餐饮"}, {"value": "1003", "text": "旅游景点\/场所"}, {
+            "value": "1004",
+            "text": "娱乐健身"
+        }, {"value": "1005", "text": "家政服务"}, {"value": "1006", "text": "中介代理"}, {"value": "1007", "text": "网吧"}, {
+            "value": "1014",
+            "text": "出行交通服务"
+        }, {"value": "1015", "text": "旅行社"}, {"value": "1016", "text": "其他旅游服务"}, {
+            "value": "1017",
+            "text": "客票服务"
+        }, {"value": "1018", "text": "其他服务业"}], "value": "1000", "text": "服务业", "mediaId": "@lALOD7ToQjAw"
+    }, {
+        "children": [{"value": "1710", "text": "仓储业"}, {"value": "905", "text": "道路运输业"}, {
+            "value": "1701",
+            "text": "铁路运输业"
+        }, {"value": "1702", "text": "水上运输业"}, {"value": "1703", "text": "航空运输业"}, {
+            "value": "1704",
+            "text": "管道运输业"
+        }, {"value": "1705", "text": "其他运输业"}, {"value": "1706", "text": "装卸搬运业"}, {
+            "value": "1707",
+            "text": "运输代理业"
+        }, {"value": "1708", "text": "客票代理业"}, {"value": "1709", "text": "邮政服务"}, {
+            "value": "904",
+            "text": "快递服务"
+        }, {"value": "1711", "text": "配送揽收服务"}, {"value": "1712", "text": "其他快递服务"}],
+        "value": "1700",
+        "text": "运输\/物流\/仓储",
+        "mediaId": "@lALOxnTAwzAw"
+    }, {
+        "children": [{"value": "709", "text": "新闻"}, {"value": "701", "text": "广告\/公关"}, {
+            "value": "702",
+            "text": "报纸\/杂志"
+        }, {"value": "703", "text": "广播"}, {"value": "704", "text": "影视"}, {"value": "705", "text": "出版"}, {
+            "value": "706",
+            "text": "文化艺术业"
+        }, {"value": "707", "text": "体育"}, {"value": "708", "text": "动漫"}, {"value": "710", "text": "媒体"}, {
+            "value": "711",
+            "text": "其他文体"
+        }, {"value": "712", "text": "其他娱乐"}, {"value": "713", "text": "其他传媒"}],
+        "value": "700",
+        "text": "文体\/娱乐\/传媒",
+        "mediaId": "@lALOD7ToRDAw"
+    }, {
+        "children": [{"value": "401", "text": "会计审计服务"}, {"value": "402", "text": "人力资源服务"}, {
+            "value": "403",
+            "text": "管理咨询服务"
+        }, {"value": "404", "text": "法律服务"}, {"value": "405", "text": "检测认证服务"}, {"value": "406", "text": "翻译服务"}, {
+            "value": "407",
+            "text": "咨询调查服务"
+        }, {"value": "408", "text": "知识产权服务"}, {"value": "409", "text": "安全保护服务"}, {
+            "value": "410",
+            "text": "其他商务服务"
+        }, {"value": "411", "text": "机械设备租赁"}, {"value": "412", "text": "文化用品租赁"}, {"value": "1108", "text": "其他租赁"}],
+        "value": "400",
+        "text": "商业服务\/租赁",
+        "mediaId": "@lALOD7ToQDAw"
+    }, {
+        "children": [{"value": "1314", "text": "基层医疗卫生机构"}, {"value": "1301", "text": "民营医院"}, {
+            "value": "1306",
+            "text": "公立医院"
+        }, {"value": "1308", "text": "社区医院"}, {"value": "1309", "text": "医疗软件"}, {
+            "value": "1310",
+            "text": "美容整形"
+        }, {"value": "1302", "text": "药品器械"}, {"value": "1303", "text": "健康管理"}, {
+            "value": "1304",
+            "text": "药店连锁"
+        }, {"value": "1305", "text": "医疗创新"}, {"value": "1311", "text": "疾病防控机构"}, {
+            "value": "1312",
+            "text": "护理休养机构"
+        }, {"value": "1313", "text": "其他医疗机构"}], "value": "1300", "text": "医疗医药", "mediaId": "@lALOp86KDDAw"
+    }, {
+        "children": [{"value": "112", "text": "党群\/党委"}, {"value": "146", "text": "党群\/纪委"}, {
+            "value": "113",
+            "text": "党群\/团委"
+        }, {"value": "103", "text": "民生\/民政"}, {"value": "122", "text": "民生\/文化"}, {
+            "value": "123",
+            "text": "民生\/广电"
+        }, {"value": "124", "text": "民生\/人社"}, {"value": "105", "text": "民生\/交通"}, {
+            "value": "102",
+            "text": "民生\/卫生"
+        }, {"value": "144", "text": "民生\/医保"}, {"value": "104", "text": "政法\/公安"}, {
+            "value": "115",
+            "text": "政法\/检察院"
+        }, {"value": "106", "text": "政法\/法院"}, {"value": "143", "text": "政法\/司法"}, {
+            "value": "117",
+            "text": "经发\/发改委"
+        }, {"value": "118", "text": "经发\/经信委"}, {"value": "119", "text": "经发\/商务局"}, {
+            "value": "120",
+            "text": "经发\/统计局"
+        }, {"value": "107", "text": "城建\/规划"}, {"value": "128", "text": "城建\/国土"}, {
+            "value": "129",
+            "text": "城建\/建设"
+        }, {"value": "111", "text": "监管\/税务"}, {"value": "131", "text": "监管\/海关"}, {
+            "value": "108",
+            "text": "监管\/工商"
+        }, {"value": "132", "text": "监管\/环保"}, {"value": "133", "text": "监管\/物价"}, {
+            "value": "134",
+            "text": "监管\/药品"
+        }, {"value": "136", "text": "市委\/市政府"}, {"value": "137", "text": "县委\/县政府"}, {
+            "value": "138",
+            "text": "省委\/省政府"
+        }, {"value": "139", "text": "镇级政府"}, {"value": "109", "text": "公共设施管理"}, {
+            "value": "140",
+            "text": "其他政府部门"
+        }, {"value": "142", "text": "其他事业单位"}], "value": "100", "text": "政府\/事业单位", "mediaId": "@lALOD7ToRzAw"
+    }, {
+        "children": [{"value": "1102", "text": "公益机构"}, {"value": "1103", "text": "行业协会"}, {
+            "value": "1104",
+            "text": "宗教组织"
+        }, {"value": "1112", "text": "学生组织"}, {"value": "1113", "text": "共青团"}, {"value": "1114", "text": "国际机构"}, {
+            "value": "1115",
+            "text": "非营利机构"
+        }, {"value": "1116", "text": "工会"}, {"value": "1117", "text": "基金会"}, {
+            "value": "1118",
+            "text": "村委会\/居委会"
+        }, {"value": "1119", "text": "其他社会组织"}], "value": "1100", "text": "社会组织", "mediaId": "@lALOD7ToPzAw"
+    }, {
+        "children": [{"value": "110", "text": "试验\/研究所"}, {"value": "1801", "text": "专业技术服务"}, {
+            "value": "1803",
+            "text": "科技推广应用"
+        }], "value": "1800", "text": "科研服务", "mediaId": "@lALOxnPVAzAw"
+    }, {
+        "children": [{"value": "1107", "text": "生态环境治理"}, {"value": "1901", "text": "水利管理"}],
+        "value": "1900",
+        "text": "公共\/环境",
+        "mediaId": "@lALOxnS_8jAw"
+    }, {
+        "children": [{"value": "2001", "text": "居民服务业"}, {"value": "2002", "text": "产品修理业"}, {"value": "2003", "text": "其他服务业"}],
+        "value": "2000",
+        "text": "居民服务",
+        "mediaId": "@lALOxnTARzAw"
+    }, {
+        "children": [{"value": "1401", "text": "煤炭"}, {"value": "1110", "text": "石油\/天然气\/炼化\/石化"}, {
+            "value": "1111",
+            "text": "黑色金属"
+        }, {"value": "1402", "text": "有色金属"}, {"value": "1403", "text": "非金属"}, {
+            "value": "1404",
+            "text": "开采辅助活动"
+        }, {"value": "1405", "text": "其他采矿业"}], "value": "1400", "text": "开采业", "mediaId": "@lALOxnTCwTAw"
+    }, {
+        "children": [{"value": "1501", "text": "农业"}, {"value": "1502", "text": "林业"}, {
+            "value": "1503",
+            "text": "畜牧业"
+        }, {"value": "1504", "text": "渔业"}, {"value": "1109", "text": "农林牧渔服务"}],
+        "value": "1500",
+        "text": "农\/林\/牧\/渔",
+        "mediaId": "@lALOxnTCSTAw"
+    }, {
+        "children": [{"value": "1601", "text": "电\/热生产供应"}, {"value": "1602", "text": "燃气生产供应"}, {
+            "value": "1603",
+            "text": "水生产供应"
+        }], "value": "1600", "text": "电\/热\/燃气\/水供应", "mediaId": "@lALOxnTB3TAw"
+    }, {
+        "children": [{"value": "1201", "text": "家庭"}, {"value": "1202", "text": "同学"}, {
+            "value": "1203",
+            "text": "朋友"
+        }, {"value": "1205", "text": "族谱"}], "value": "1200", "text": "亲朋好友", "mediaId": "@lALOD7ToRjAw"
+    }, {"children": [{"value": "99901", "text": "无行业"}], "value": "99900", "text": "无行业"}]
+}

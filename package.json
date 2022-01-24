@@ -1,0 +1,77 @@
+{
+  "name": "newbee-mall-vue3-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "better-scroll": "^2.0.5",
+    "clipboard": "^2.0.6",
+    "core-js": "^3.6.5",
+    "element-plus": "^1.0.2-beta.36",
+    "fastclick": "^1.0.6",
+    "install": "^0.13.0",
+    "js-md5": "^0.7.3",
+    "lib-flexible": "^0.3.2",
+    "lrz": "^4.9.41",
+    "mitt": "^2.1.0",
+    "moment": "^2.29.1",
+    "npm": "^7.8.0",
+    "pushstate-server": "^3.1.0",
+    "qrcodejs2": "0.0.2",
+    "vant": "^3.0.0-beta.5",
+    "vue": "^3.1.4",
+    "vue-router": "^4.0.0-beta.13",
+    "vue2-verify": "^1.1.5",
+    "vue3-eventbus": "^2.0.0",
+    "vuex": "^4.0.2",
+    "weixin-js-sdk": "^1.6.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-import": "^1.13.1",
+    "compression-webpack-plugin": "5.0.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^7.0.0-0",
+    "less": "^3.12.2",
+    "less-loader": "^7.0.2",
+    "postcss-px-to-viewport": "^1.1.1",
+    "svg-sprite-loader": "^6.0.2",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack-bundle-analyzer": "^3.9.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/vue3-essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {
+      "generator-star-spacing": "off",
+      "no-tabs": "off",
+      "no-unused-vars": "off",
+      "no-console": "off",
+      "no-irregular-whitespace": "off",
+      "no-debugger": "off"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
